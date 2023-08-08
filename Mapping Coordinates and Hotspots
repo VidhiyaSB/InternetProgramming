@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>India Map</title>
+</head>
+<body>
+    <h1>India Map by Vidhiya S B - 210701306</h1>
+    <img id="map" src="C:\Users\STUDENT\Desktop\India.jpg" usemap="#indiaMap" alt="India Map">
+    <map name="indiaMap">
+        <area shape="rect" coords="197,457,164,573"
+              href="file:///C:/Users/STUDENT/Desktop/tn.html" alt="Tamil Nadu" title="Coordinates: (197,457) to (164,573)">
+        <area shape="rect" coords="136,468,150,530"
+              href="file:///C:/Users/STUDENT/Desktop/kerala.html" alt="Kerala" title="Coordinates: (136,468) to (150,530)">
+        <area shape="rect" coords="269,345,202,438"
+              href="file:///C:/Users/STUDENT/Desktop/Ap.html" alt="Andhra Pradesh" title="Coordinates: (269,345) to (202,438)">
+    </map>
+</body>
+</html
